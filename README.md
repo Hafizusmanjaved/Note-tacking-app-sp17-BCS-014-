@@ -1,13 +1,4 @@
-<img src='artworks/flt_keep.svg' width='150' alt="Flutter Keep">
 
----
-
-[![Check Status][check-badge]][check-link]
-[![MIT][license-badge]][license]
-
-This is a simplified [Google Keep] mobile app 'clone' built with [Flutter] + [Firebase]. For practicing prototyping and Flutter skills only.
-
-If you love to, please read the [series of stories] on Medium to find out how to create an app like this from scratch.
 
 Screenshots:
 
